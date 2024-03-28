@@ -1,0 +1,35 @@
+{
+  "positions" : [ {
+    "id" : "/Start",
+    "x" : 290,
+    "y" : 707
+  }, {
+    "id" : "/AskIntent",
+    "x" : 290,
+    "y" : 1266
+  }, {
+    "id" : "/Hello",
+    "x" : 290,
+    "y" : 1769
+  }, {
+    "id" : "/Bye",
+    "x" : 290,
+    "y" : 2171
+  }, {
+    "id" : "/KnowledgeBase",
+    "x" : 290,
+    "y" : 2627
+  }, {
+    "id" : "/NoMatch",
+    "x" : 290,
+    "y" : 2983
+  }, {
+    "id" : "/AskIntent/ChangePassword",
+    "x" : 290,
+    "y" : 589
+  }, {
+    "id" : "/AskIntent/ChangePIN",
+    "x" : 290,
+    "y" : 829
+  } ]
+}
